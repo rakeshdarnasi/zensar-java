@@ -1,9 +1,9 @@
-public class Employee {
+public class employee {
     int id;
     String empName;
     String domain;
 
-    public Employee(int id, String empName, String domain) {
+    public employee(int id, String empName, String domain) {
         this.id = id;
         this.empName = empName;
         this.domain = domain;
@@ -51,7 +51,7 @@ public class Employee {
 class zensar {
 
     public static void main(String[] args){
-        Employee E = new Employee(67797, "Prathima", "Java");
+        employee E = new employee(67797, "Prathima", "Java");
         System.out.println(E);
     }
 

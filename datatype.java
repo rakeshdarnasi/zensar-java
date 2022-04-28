@@ -1,4 +1,4 @@
-public class dataTypes {
+public class datatype {
 
     public static void main(String[] args) {
         // Numbers -> Integers
