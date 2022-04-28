@@ -1,9 +1,9 @@
-public class Ball {
+public class ball {
     String material;
     String color;
     double price;
 
-    public Ball(String material, String color, double price) {
+    public ball(String material, String color, double price) {
         this.material = material;
         this.color = color;
         this.price = price;
@@ -42,8 +42,8 @@ public class Ball {
 
 class meow {
     public static void main(String[] args) {
-        Ball b = new Ball("Leather", "Red", 100);
-        Ball b1 = new Ball("Jumper", "Yellow", 20);
+        ball b = new ball("Leather", "Red", 100);
+        ball b1 = new ball("Jumper", "Yellow", 20);
 
         b.setMaterial("Metal");
 
