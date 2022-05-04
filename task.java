@@ -1,4 +1,4 @@
-public class Task {
+public class task {
     public static void checkForAdult(int age) {
         if (age >= 18) {
             System.out.println("Param is an Adult");

@@ -1,4 +1,4 @@
-public class Operators {
+public class operations {
     public static void main(String[] args, boolean b) {
         System.out.println(1 < 2); // true
         System.out.println(1 > 2); // false

@@ -1,8 +1,8 @@
-package Basics;
+package basic;
 
 import java.util.Scanner;
 
-public class Employee {
+public class employee {
     String Ename;
     String Erole;
     double Esalary;

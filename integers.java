@@ -1,4 +1,4 @@
-public class Intergers {
+public class integers {
     public static void main(String[] args) {
         int a = 4;
         double b = 10.00; // Decimals

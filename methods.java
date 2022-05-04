@@ -1,4 +1,4 @@
-public class Methods {
+public class methods {
     public static void add(int a, int b) {
         System.out.println("Sum of (" + a + ", " + b + ") = " + (a + b));
     }

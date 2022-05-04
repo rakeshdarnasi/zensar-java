@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Task1 {
+public class task1 {
     public static void main(String[] args) {
         int[] Array = { 10, 20, 30, 40 };
 

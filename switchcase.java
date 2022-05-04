@@ -1,4 +1,4 @@
-public class Switch_case {
+public class switchcase {
     public static void main(String[] args) {
         int i = 1;
         // if i = 0 hello, 1 hello world, 2 aaryan, 3 hello again
